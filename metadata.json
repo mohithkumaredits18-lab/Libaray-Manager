@@ -1,0 +1,6 @@
+{
+  "name": "Folio — Library Management System",
+  "description": "Academic library management system for tracking students, books, borrowing records, and return statuses backed by PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
